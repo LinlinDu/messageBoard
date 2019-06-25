@@ -1,4 +1,4 @@
-# messageBoard
+# messageboard
 a restful messageboard api
 
 ## installation
