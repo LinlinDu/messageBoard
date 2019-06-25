@@ -1,5 +1,5 @@
 # messageBoard
-a restful message api
+a restful messageboard api
 
 ## installation
 ```
